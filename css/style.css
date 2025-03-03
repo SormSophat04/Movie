@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bayon&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+/* -------------------- Variable-Color -------------------- */
+:root {
+  --main-color-900: #1d371e;
+  --main-color-800: #234224;
+  --main-color-700: #234224;
+  --main-color-600: #346734;
+  --main-color-500: #478247;
+  --main-color-400: #6b9f68;
+  --main-color-300: #89b685;
+  --main-color-200: #c4dac0;
+  --main-color-100: #e1edde;
+  --main-color-50: #f2f7f2;
+}
+
+/* -------------------- Text-Color ----------------------- */
+.text-green-900 {
+  color: var(--main-color-900) !important;
+}
+.text-green-800 {
+  color: var(--main-color-800) !important;
+}
+.text-green-700 {
+  color: var(--main-color-700) !important;
+}
+.text-green-600 {
+  color: var(--main-color-600) !important;
+}
+.text-green-500 {
+  color: var(--main-color-500) !important;
+}
+.text-green-400 {
+  color: var(--main-color-400) !important;
+}
+.text-green-300 {
+  color: var(--main-color-300) !important;
+}
+.text-green-200 {
+  color: var(--main-color-200) !important;
+}
+.text-green-100 {
+  color: var(--main-color-100) !important;
+}
+.text-green-50 {
+  color: var(--main-color-50) !important;
+}
+
+/* -------------------- Bg-Color ------------------------- */
+.bg-green-900 {
+  background-color: var(--main-color-900) !important;
+}
+.bg-green-800 {
+  background-color: var(--main-color-800) !important;
+}
+.bg-green-700 {
+  background-color: var(--main-color-700) !important;
+}
+.bg-green-600 {
+  background-color: var(--main-color-600) !important;
+}
+.bg-green-500 {
+  background-color: var(--main-color-500) !important;
+}
+.bg-green-400 {
+  background-color: var(--main-color-400) !important;
+}
+.bg-green-300 {
+  background-color: var(--main-color-300) !important;
+}
+.bg-green-200 {
+  background-color: var(--main-color-200) !important;
+}
+.bg-green-100 {
+  background-color: var(--main-color-100) !important;
+}
+.bg-green-50 {
+  background-color: var(--main-color-50) !important;
+}
+
+/* ------------------- Font -------------------------- */
+.font-kh-siemreap {
+  font-family: "Siemreap", sans-serif !important;
+  font-weight: 200;
+}
+.font-kh-bayon {
+  font-family: "Bayon", sans-serif !important;
+  font-weight: 200;
+}
+.font-en {
+  font-family: "SUSE", sans-serif !important;
+}
