@@ -90,3 +90,13 @@
 .font-en {
   font-family: "SUSE", sans-serif !important;
 }
+
+/* ------------------- hvoer -------------------- */
+
+.text-hover:hover {
+  color: var(--main-color-500) !important;
+}
+
+.bg-hover:hover{
+  background-color: var(--main-color-500);
+}
