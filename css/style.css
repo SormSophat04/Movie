@@ -97,6 +97,19 @@
   color: var(--main-color-500) !important;
 }
 
-.bg-hover:hover{
+.bg-hover:hover {
   background-color: var(--main-color-500);
+}
+
+main {
+  height: 100vh;
+}
+
+main > .hero {
+  height: 100%;
+  width: 100%;
+  background: url(../assets/images/avengers.jpg);
+  background-size: cover;
+  display: flex;
+  align-items: center;
 }
