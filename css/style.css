@@ -101,6 +101,10 @@
   background-color: var(--main-color-500);
 }
 
+.border-green {
+  border: 1px solid var(--main-color-500) !important;
+}
+
 main {
   height: 100vh;
 }
