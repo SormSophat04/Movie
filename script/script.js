@@ -1,5 +1,5 @@
 new Typed(".auto-type", {
-  strings: ["រឿងភាគ", "Movies", "Animation"],
+  strings: ["Science", "Animation", "រឿងភាគ"],
   loop: true,
   typeSpeed: 120,
   backSpeed: 120,

@@ -105,15 +105,29 @@
   border: 1px solid var(--main-color-500) !important;
 }
 
+.hover-image:hover {
+  transition: 0.3s ease-in-out;
+  cursor: pointer;
+  filter: brightness(80%) !important;
+}
+
+/* --------------------- Main ------------------------ */
 main {
   height: 100vh;
 }
 
-main > .hero {
+main > .hero,
+main > .card-content {
   height: 100%;
   width: 100%;
   background: url(../assets/images/avengers.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
   align-items: center;
+}
+
+main > .card-content {
+  height: auto;
+  background: url(../assets/images/bgcard3.png);
 }
